@@ -1,0 +1,25 @@
+// {
+//         "name": "Our Chrome Extension's Name",
+// 　　"version": "1.0",
+// 　　"description": "This is the first Chrome extension.",
+// 　　"icons": { "48": "icon48.png" },				//定义图片的大小，可以自己更改
+// 　　"page_action": { "default_icon": "icon19.png" },	//定义图片的名称，可以自己更改
+
+// 　　"js": ["google_search_indirection.js"]	//定义.js文件名称，可以自己更改
+// }
+{
+"app": {
+"launch": {
+"web_url": "http://blog.sina.com.cn/eyeofming"
+},
+"urls": [ "http://blog.sina.com.cn/eyeofming" ]
+},
+"description": "Ming's China Blog",
+"icons": {
+"128": "eye.png"
+},
+"name": "Eye Of Ming",
+"version": "1.0"
+}
+
+

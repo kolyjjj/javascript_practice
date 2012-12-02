@@ -1,0 +1,1 @@
+Just some Javascript practice, put it here in case someday i delete it on my disk by accident
